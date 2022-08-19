@@ -31,18 +31,17 @@
             <div class="col-lg-4">
                 <div class="contact-info">
                     <div class="contact-info__item">
-                        <h5 class="title--sm2">address:</h5>
-                        <p class="value">991 White St . Dawsonville GA 30534 , New York</p>
+                        <h5 class="title--sm2">DIRECCIÓN:</h5>
+                        <p class="value">Av. Canto Grande 2132, San Juan de Lurigancho 15408</p>
                     </div>
                     <div class="contact-info__item">
-                        <h5 class="title--sm2">PHONE NUMBER :</h5>
-                        <p class="value">+ (898) 784-7217</p>
+                        <h5 class="title--sm2">NÚMERO DE TELÉFONO :</h5>
+                        <p class="value">929 048 980</p>
+                        <p class="value">924 339 700</p>
                     </div>
                     <div class="contact-info__item">
                         <h5 class="title--sm2">email:</h5>
-                        <p class="value"><a href="https://freebw.com/cdn-cgi/l/email-protection"
-                                class="__cf_email__"
-                                data-cfemail="a4f0c5d0c1c18ac5d6c7cccdd0c1c7d0d1d6c1e4c3c9c5cdc88ac7cbc9">[email&#160;protected]</a>
+                        <p class="value"><a href="mailto:informer@belmasac.com">informer@belmasac.com</a>
                         </p>
                     </div>
                 </div>
