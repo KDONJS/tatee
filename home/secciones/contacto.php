@@ -14,8 +14,8 @@
 <section class="section p-t-100 p-b-65">
     <div class="container">
         <div class="page-heading">
-            <h4 class="title-sub title-sub--c8 m-b-15">Let’s work with us</h4>
-            <h2 class="title-2">Together we can make dream come true</h2>
+            <h4 class="title-sub title-sub--c8 m-b-15">TRABAJEMOS JUNTOS</h4>
+            <h2 class="title-2">Juntos podemos hacer realidad el sueño</h2>
         </div>
     </div>
 </section>
@@ -24,7 +24,7 @@
 <section class="section p-b-80">
     <div class="container">
         <div class="map-wrapper js-google-map m-b-60">
-            <iframe class="mapa-google" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d975.6009328052689!2d-76.98598844791421!3d-12.01570238966163!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9105c5bf8f9f9233%3A0x723ca2ba402f7b4b!2sColegio%20Andr%C3%A9s%20Avelino%20C%C3%A1ceres!5e0!3m2!1ses-419!2spe!4v1660888733450!5m2!1ses-419!2spe" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <iframe class="mapa-google"  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3902.7025347723898!2d-77.0148502!3d-11.9950731!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9105cf81e0f9de87%3A0xa883f0f9d8672f02!2sAv.%20Canto%20Grande%202132%2C%20San%20Juan%20de%20Lurigancho%2015408!5e0!3m2!1ses-419!2spe!4v1660904008679!5m2!1ses-419!2spe" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
            
         </div>
         <div class="row no-gutters">
