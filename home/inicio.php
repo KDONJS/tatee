@@ -1,5 +1,9 @@
 <?php 
 
+    require 'db/funtion.php';
+
+
+
     if (isset($_GET['pagina-pagina'])) {
         $nombrepagina = "BELMA | ".$_GET['pagina-pagina'];
     }else{
