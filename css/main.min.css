@@ -1057,11 +1057,11 @@ a:hover {
     line-height: -webkit-calc(50/30);
     line-height: -moz-calc(50/30);
     line-height: calc(50/30);
-    margin-bottom: 25px
+    margin-bottom: 5px
 }
 
 .media-about-2 .media__text {
-    margin-bottom: 39px
+    margin-bottom: 10px
 }
 
 @media (max-width:991px) {

@@ -30,37 +30,62 @@
         </div>
     </section>
 
-
-    <section class="section p-t-80">
+    <section class="p-t-120">
         <div class="container">
-            <div class="row no-gutters">
-                <div class="col-lg-6">
-                    <div class="row">
-                        <img class="media__img" src="belma.png" alt="">
-                    </div>
+            <div class="media-about-2 p-b-80">
+                <div class="media__img">
+                    <img src="belma.png" alt="logo">
                 </div>
-                <div class="col-lg-6">
-                    <h3><strong class="text--c2">Nosotros: </strong></h3>
-                    <p class="text--s18-40 m-b-15">
-                        Somos una empresa constructora con amplia experiencia en construcción e infraestructura, diseño
+                <div class="media__body">
+                    <h5 class="title-sub">BEL & MA S.A.C</h5>
+                    <h2 class="title-1">Nosotros:</h2>
+                    <p class="media__text">Somos una empresa constructora con amplia experiencia en construcción e
+                        infraestructura, diseño
                         de proyectos y consultoría, contamos con profesionales altamente calificados y una variedad de
-                        proyectos a nivel nacional.
-                    </p>
-                    <h3><strong class="text--c2">Misión: </strong></h3>
-                    <p class="text--s18-40 m-b-15">
-                        Superar las expectativas de calidad, plazo y seguridad. Demostrando experiencia e
-                        innovación, con colaboradores comprometidos y calificados.
-                    </p>
-                    <h3><strong class="text--c2">visión: </strong></h3>
-                    <p class="text--s18-40 m-b-15">
-                        Ser una empresa renombrada a nivel nacional e internacional,
-                        por la ejecución de obras de ingeniería.
-                    </p>
+                        proyectos a nivel nacional.</p>
+
+                    <h2 class="title-1">Misión:</h2>
+                    <p class="media__text">Superar las expectativas de calidad, plazo y seguridad. Demostrando
+                        experiencia e
+                        innovación, con colaboradores comprometidos y calificados.</p>
+
+                    <h2 class="title-1">visión:</h2>
+                    <p class="media__text">Ser una empresa renombrada a nivel nacional e internacional,
+                        por la ejecución de obras de ingeniería.</p>
+
                 </div>
             </div>
+
         </div>
     </section>
 
+    <section class="p-t-110">
+        <div class="wrap wrap--w1790">
+            <div class="container-fluid">
+                <article class="media-project-3">
+                    <div class="media__body">
+                        <figure class="media__img">
+                            <a href="project-detail-1.html">
+                                <img src="images/project-23.jpg" alt="Space Speaker Studio">
+                            </a>
+                        </figure>
+                        <span class="add">BEL & MA S.A.C</span>
+                        <span class="year">2022</span>
+                        <div class="media__content">
+                            <div class="pointer"></div>
+                            <h4 class="title-sub title-sub--c8">Nuestra</h4>
+                            <h2 class="title-3">POLÍTICA AMBIENTAL</h2>
+                            <p class="media__text">La empresa Bel&Ma entiende que el mejoramiento
+                        continuo de sus actividades implica cuidar la calidad,
+                        seguridad, salud ocupacional y medio ambiente para
+                        beneficio de nuestros proveedores, clientes y la
+                        sociedad en general.</p>
+                        </div>
+                    </div>
+                </article>
+            </div>
+        </div>
+    </section>
 
     <section class="p-t-60 p-b-55">
         <div class="container">
@@ -116,7 +141,7 @@
     </section>
 
 
-    <?php require "equipo.php"; ?>
+    <?php //require "equipo.php"; ?>
 
 
 
