@@ -5,7 +5,7 @@
             <div class="col-lg-4 col-md-6">
                 <div class="footer-col">
                     <div class="widget m-b-25">
-                        <a href="#">
+                        <a href="?pagina-pagina=inicio">
                             <img src="./belma.png" alt="Tatee" width="200px" />
                         </a>
                     </div>

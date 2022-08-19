@@ -74,7 +74,7 @@
                                 profesionales altamente calificados y una variedad
                                 de proyectos a nivel nacional.
                             </p>
-                            <a class="au-btn au-btn--arrow" href="#">Leer más
+                            <a class="au-btn au-btn--arrow" href="?pagina-pagina=nosotros">Leer más
                                 <i class="zmdi zmdi-arrow-right ic-arrow"></i>
                             </a>
                         </div>

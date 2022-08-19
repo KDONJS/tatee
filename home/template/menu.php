@@ -51,7 +51,7 @@
                 <div class="header-mobile__bar">
                     <div class="container-fluid">
                         <div class="header-mobile__bar-inner">
-                            <a class="logo" href="index.html">
+                            <a class="logo" href="?pagina-pagina=inicio">
                                 <img src="./belma.png" alt="Tatee" width="100px" />
                             </a>
                             <button class="hamburger hamburger--slider float-right" type="button">
