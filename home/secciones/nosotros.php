@@ -42,7 +42,19 @@
                 <div class="col-lg-6">
                     <h3><strong class="text--c2">Nosotros: </strong></h3>
                     <p class="text--s18-40 m-b-15">
-                        Somos una empresa constructora con amplia experiencia en construcción e infraestructura, diseño de proyectos y consultoría, contamos con profesionales altamente calificados y una variedad de proyectos a nivel nacional.
+                        Somos una empresa constructora con amplia experiencia en construcción e infraestructura, diseño
+                        de proyectos y consultoría, contamos con profesionales altamente calificados y una variedad de
+                        proyectos a nivel nacional.
+                    </p>
+                    <h3><strong class="text--c2">Misión: </strong></h3>
+                    <p class="text--s18-40 m-b-15">
+                        Superar las expectativas de calidad, plazo y seguridad. Demostrando experiencia e
+                        innovación, con colaboradores comprometidos y calificados.
+                    </p>
+                    <h3><strong class="text--c2">visión: </strong></h3>
+                    <p class="text--s18-40 m-b-15">
+                        Ser una empresa renombrada a nivel nacional e internacional,
+                        por la ejecución de obras de ingeniería.
                     </p>
                 </div>
             </div>
@@ -50,28 +62,25 @@
     </section>
 
 
-    <section class="p-t-60 p-b-60">
+    <section class="p-t-60 p-b-55">
         <div class="container">
             <div class="section-title">
-                <h5 class="title-sub">what we do</h5>
-                <h2 class="title-1">Our specilization</h2>
+                <h5 class="title-sub">B&M</h5>
+                <h2 class="title-1">Nuestros pilares</h2>
             </div>
             <div class="row no-gutters">
                 <div class="col-md-6 col-lg-4">
                     <article class="media media-service">
                         <figure class="media__img">
-                            <img src="images/icon/service-01.png" alt="architecture" />
+                            <img src="images/icon/service-01.png" alt="Consultoría y asesoría" />
                         </figure>
                         <div class="media__title">
                             <h3 class="title">
-                                <a href="#">architecture</a>
+                                <a href="#">experiencia</a>
                             </h3>
                             <span class="number">01</span>
                         </div>
-                        <p class="media__text">Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-                            accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo invest
-                            ntore veritatis et quasi architecto beatae vitaest dicta sunt explicabo.
-                            Nemo enim ipsam vost lmat oluptatem quia voluptas sit aspernatur</p>
+                        <p class="media__text">Constructora con amplia experiencia</p>
                     </article>
                 </div>
                 <div class="col-md-6 col-lg-4">
@@ -81,14 +90,11 @@
                         </figure>
                         <div class="media__title">
                             <h3 class="title">
-                                <a href="#">Interior</a>
+                                <a href="#">profesionales</a>
                             </h3>
                             <span class="number">02</span>
                         </div>
-                        <p class="media__text">Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-                            accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo invest
-                            ntore veritatis et quasi architecto beatae vitaest dicta sunt explicabo.
-                            Nemo enim ipsam vost lmat oluptatem quia voluptas sit aspernatur</p>
+                        <p class="media__text">Contamos con profesionales altamente calificados</p>
                     </article>
                 </div>
                 <div class="col-md-6 col-lg-4">
@@ -98,19 +104,17 @@
                         </figure>
                         <div class="media__title">
                             <h3 class="title">
-                                <a href="#">planning</a>
+                                <a href="#">diseño</a>
                             </h3>
                             <span class="number">03</span>
                         </div>
-                        <p class="media__text">Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-                            accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo invest
-                            ntore veritatis et quasi architecto beatae vitaest dicta sunt explicabo.
-                            Nemo enim ipsam vost lmat oluptatem quia voluptas sit aspernatur</p>
+                        <p class="media__text">Nos concentramos en diseñar tus necesidades</p>
                     </article>
                 </div>
             </div>
         </div>
     </section>
+
 
     <?php require "equipo.php"; ?>
 
