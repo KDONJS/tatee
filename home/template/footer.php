@@ -6,7 +6,7 @@
                         <div class="footer-col">
                             <div class="widget m-b-25">
                                 <a href="#">
-                                    <img src="./LOGO-CONSTRUCCION.png" alt="Tatee" width="200px" />
+                                    <img src="./belma.png" alt="Tatee" width="200px" />
                                 </a>
                             </div>
                             <div class="widget widget-address">
