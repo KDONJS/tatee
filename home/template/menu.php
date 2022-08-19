@@ -18,9 +18,9 @@
                                             <li class="menu-item">
                                                 <a href="?pagina-pagina=nosotros">Nosotros</a>
                                             </li>
-                                            <li class="menu-item menu-item-has-children">
+                                            <!-- <li class="menu-item menu-item-has-children">
                                                 <a href="?pagina-pagina=proyectos">Proyectos</a>
-                                            </li>
+                                            </li> -->
                                             
                                             <li class="menu-item">
                                                 <a href="?pagina-pagina=contacto">contacto</a>
@@ -71,9 +71,9 @@
                             <li class="menu-item">
                                 <a href="?pagina-pagina=nosotros">Nosotros</a>
                             </li>
-                            <li class="menu-item">
+                            <!-- <li class="menu-item">
                                 <a href="?pagina-pagina=proyectos">Proyectos</a>
-                            </li>
+                            </li> -->
                            
                             <li class="menu-item">
                                 <a href="?pagina-pagina=contacto">contacto</a>
