@@ -6,7 +6,7 @@
                             <div class="header__content">
                                 <div class="logo">
                                     <a href="?pagina-pagina=inicio">
-                                        <img src="./LOGO-CONSTRUCCION.png" alt="Tatee" width="200px" />
+                                        <img src="./belma.png" alt="Tatee" width="100px" />
                                     </a>
                                 </div>
                                 <div class="header__content-right">
@@ -52,7 +52,7 @@
                     <div class="container-fluid">
                         <div class="header-mobile__bar-inner">
                             <a class="logo" href="index.html">
-                                <img src="./LOGO-CONSTRUCCION.png" alt="Tatee" width="150px" />
+                                <img src="./belma.png" alt="Tatee" width="100px" />
                             </a>
                             <button class="hamburger hamburger--slider float-right" type="button">
                                 <span class="hamburger-box">
