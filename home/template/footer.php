@@ -13,8 +13,8 @@
                         <ul>
                             <li>Av. Canto Grande 2132,
                                 San Juan de Lurigancho 15408, Lima- Perú</li>
-                            <li>Phone number : <a href="tel:929048980"> 929 048 980</a></li>
-                            <li>Phone number : <a href="tel:924339700"> 924 339 700</a></li>
+                            <li>Phone number : 929 048 980</li>
+                            <li>Phone number : 924 339 700</li>
                             <li>Email : <a href="mailto:informer@belmasac.com">informer@belmasac.com</a>
                             </li>
                         </ul>
