@@ -1,8 +1,8 @@
 <section class="p-t-120 p-b-30">
         <div class="container">
             <div class="section-title m-b-70">
-                <h5 class="title-sub">awesome people</h5>
-                <h2 class="title-1">Meet the team</h2>
+                <h5 class="title-sub">Conoce</h5>
+                <h2 class="title-1">A nuestro equipo</h2>
             </div>
             <div class="row">
 
@@ -14,23 +14,8 @@
                         <figure class="media__img-wrap">
                             <ul class="list-social list-social--light">
                                 <li class="list-social__item">
-                                    <a class="ic-fb" href="#">
-                                        <i class="zmdi zmdi-facebook"></i>
-                                    </a>
-                                </li>
-                                <li class="list-social__item">
                                     <a class="ic-insta" href="#">
                                         <i class="zmdi zmdi-twitter"></i>
-                                    </a>
-                                </li>
-                                <li class="list-social__item">
-                                    <a class="ic-twi" href="#">
-                                        <i class="zmdi zmdi-instagram"></i>
-                                    </a>
-                                </li>
-                                <li class="list-social__item">
-                                    <a class="ic-pinterest" href="#">
-                                        <i class="zmdi zmdi-google"></i>
                                     </a>
                                 </li>
                             </ul>
