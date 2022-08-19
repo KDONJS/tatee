@@ -13,17 +13,17 @@
                                     <nav class="header-nav-menu">
                                         <ul class="menu nav-menu">
                                             <li class="menu-item menu-item-has-children">
-                                                <a href="?pagina-pagina=inicio">Home</a>
+                                                <a href="?pagina-pagina=inicio">Inicio</a>
                                             </li>
                                             <li class="menu-item">
-                                                <a href="?pagina-pagina=nosotros">about</a>
+                                                <a href="?pagina-pagina=nosotros">Nosotros</a>
                                             </li>
                                             <li class="menu-item menu-item-has-children">
-                                                <a href="?pagina-pagina=proyectos">Project</a>
+                                                <a href="?pagina-pagina=proyectos">Proyectos</a>
                                             </li>
                                             
                                             <li class="menu-item">
-                                                <a href="?pagina-pagina=contacto">contact</a>
+                                                <a href="?pagina-pagina=contacto">contacto</a>
                                             </li>
                                         </ul>
                                     </nav>
@@ -37,21 +37,6 @@
                                             <li class="list-social__item">
                                                 <a class="ic-insta" href="#">
                                                     <i class="zmdi zmdi-instagram"></i>
-                                                </a>
-                                            </li>
-                                            <li class="list-social__item">
-                                                <a class="ic-twi" href="#">
-                                                    <i class="zmdi zmdi-twitter"></i>
-                                                </a>
-                                            </li>
-                                            <li class="list-social__item">
-                                                <a class="ic-pinterest" href="#">
-                                                    <i class="zmdi zmdi-pinterest"></i>
-                                                </a>
-                                            </li>
-                                            <li class="list-social__item">
-                                                <a class="ic-google" href="#">
-                                                    <i class="zmdi zmdi-google"></i>
                                                 </a>
                                             </li>
                                         </ul>
@@ -80,32 +65,18 @@
                 <nav class="header-nav-menu-mobile">
                     <div class="container-fluid">
                         <ul class="menu nav-menu menu-mobile">
-                            <li class="menu-item menu-item-has-children">
-                                <a href="home-main.html">Home</a>
-                                <ul class="sub-menu">
-                                    
-                                    <li class="menu-item">
-                                        <a href="home-onepage.html">Onepage</a>
-                                    </li>
-                                    
-                                </ul>
+                            <li class="menu-item">
+                                <a href="?pagina-pagina=inicio">Inicio</a>
                             </li>
                             <li class="menu-item">
-                                <a href="about-us.html">about</a>
+                                <a href="?pagina-pagina=nosotros">Nosotros</a>
                             </li>
-                            <li class="menu-item menu-item-has-children">
-                                <a href="project-grid-full.html">Project</a>
-                                <ul class="sub-menu">
-                                    
-                                    <li class="menu-item">
-                                        <a href="project-carousel.html">Project carousel</a>
-                                    </li>
-                                    
-                                </ul>
+                            <li class="menu-item">
+                                <a href="?pagina-pagina=proyectos">Proyectos</a>
                             </li>
                            
                             <li class="menu-item">
-                                <a href="contact.html">contact</a>
+                                <a href="?pagina-pagina=contacto">contacto</a>
                             </li>
                         </ul>
                     </div>
