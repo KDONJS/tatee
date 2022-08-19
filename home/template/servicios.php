@@ -13,6 +13,7 @@
         <?php 
         
         foreach (mostrar_servicio($conn) as $k => $v) {
+            $titulo = utf8_encode($v['belma_servicio']) ;
             echo "
                         <div class='col-md-6'>
                         <article class='media media-project m-b-50'>
@@ -24,7 +25,7 @@
                             <span class='line line--bottom'></span>
                             <div class='media__body'>
                                 <h3 class='title'>
-                                    <a href='#'>".utf8_decode($v['belma_servicio'])."</a>
+                                    <a href='#'>".utf8_decode($titulo)."</a>
                                 </h3>
                                 <div class='address'>BEL & MA S.A.C</div>
                             </div>
