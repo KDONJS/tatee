@@ -24,7 +24,7 @@
                             <span class='line line--bottom'></span>
                             <div class='media__body'>
                                 <h3 class='title'>
-                                    <a href='#'>".$v['belma_servicio']."</a>
+                                    <a href='#'>".utf8_decode($v['belma_servicio'])."</a>
                                 </h3>
                                 <div class='address'>BEL & MA S.A.C</div>
                             </div>
