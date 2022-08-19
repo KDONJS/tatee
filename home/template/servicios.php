@@ -23,7 +23,7 @@
                                     <span class="line line--bottom"></span>
                                     <div class="media__body">
                                         <h3 class="title">
-                                            <a href="project-detail-1.html">Skyline</a>
+                                            <a href="project-detail-1.html">prueba</a>
                                         </h3>
                                         <div class="address">Michigan, USA</div>
                                     </div>
