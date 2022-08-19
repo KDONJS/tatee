@@ -50,18 +50,34 @@
                 <form class="form-contact js-contact-form" method="POST" action="#">
                     <div class="form-row no-gutters">
                         <div class="col-md-6">
-                            <input class="au-input" type="text" name="name" placeholder="Name"
-                                required="required">
-                            <input class="au-input" type="email" name="email" placeholder="Email Address"
-                                required="required" pattern="[^@]+@[^@]+.[a-zA-Z]{2,6}">
-                            <input class="au-input" type="text" name="phone" placeholder="Phone"
-                                required="required">
+                            <input 
+                            class="au-input" 
+                            type="text" 
+                            name="name" 
+                            placeholder="Name"
+                            required="required"
+                            >
+                            <input 
+                            class="au-input" 
+                            type="email" 
+                            name="email" 
+                            placeholder="Email Address"
+                            required="required" 
+                            pattern="[^@]+@[^@]+.[a-zA-Z]{2,6}"
+                            >
+                            <input 
+                            class="au-input" 
+                            type="text" 
+                            name="phone" 
+                            placeholder="Phone"
+                            required="required"
+                            >
                         </div>
                         <div class="col-md-6 p-r-0">
                             <textarea class="au-textarea" name="message" placeholder="Message*"
                                 required="required"></textarea>
                             <div class="text-right">
-                                <button class="au-btn au-btn--solid" type="submit">Send message</button>
+                                <button class="au-btn au-btn--solid" type="submit">Enviar</button>
                             </div>
                         </div>
                     </div>
